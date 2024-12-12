@@ -1,6 +1,6 @@
 - Soy Jesús Millán, conocido como @SulphurousGoat
 - Ilustrador digital y especializandose en informática
-- Interesado en el desarrollo web frontend. Y el desarrollo de videojuegos
+- Interesado en el desarrollo web frontend, y el desarrollo de videojuegos
 - Actualmente estudiando librerías y frameworks de JS
 
 <!---
